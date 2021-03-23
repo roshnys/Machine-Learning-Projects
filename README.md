@@ -1,10 +1,8 @@
 # Classification in Python
 
-These projects are all done with some Classification technique in Python programming language.
+These projects are all done with Machine Learning  Classification technique in Python programming language.
 
-For more details, each of the project has its own README.
+For more details, each of the project has its own Description.
 
 
-## License
 
-Each project has MIT License.
